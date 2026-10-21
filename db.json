@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Air M2",
+      "price": 999,
+      "category": "Laptops",
+      "brand": "Apple",
+      "inStock": true,
+      "image": "https://placehold.co/300x200?text=MacBook+Air",
+      "description": "A lightweight laptop with an Apple M2 chip, suitable for programming, studying, and everyday tasks."
+    },
+    {
+      "id": 2,
+      "name": "Dell XPS 13",
+      "price": 1099,
+      "category": "Laptops",
+      "brand": "Dell",
+      "inStock": true,
+      "image": "https://placehold.co/300x200?text=Dell+XPS+13",
+      "description": "A compact premium laptop featuring a sleek design and a high-resolution display for productivity."
+    },
+    {
+      "id": 3,
+      "name": "Logitech MX Master 3S",
+      "price": 99,
+      "category": "Accessories",
+      "brand": "Logitech",
+      "inStock": true,
+      "image": "https://placehold.co/300x200?text=Wireless+Mouse",
+      "description": "An ergonomic wireless mouse with customizable buttons, designed for comfortable everyday work."
+    },
+    {
+      "id": 4,
+      "name": "Keychron K2",
+      "price": 89,
+      "category": "Keyboards",
+      "brand": "Keychron",
+      "inStock": false,
+      "image": "https://placehold.co/300x200?text=Mechanical+Keyboard",
+      "description": "A compact mechanical keyboard suitable for coding, writing, and improving desktop productivity."
+    },
+    {
+      "id": 5,
+      "name": "Samsung 27-inch Monitor",
+      "price": 249,
+      "category": "Monitors",
+      "brand": "Samsung",
+      "inStock": true,
+      "image": "https://placehold.co/300x200?text=Samsung+Monitor",
+      "description": "A 27-inch monitor that provides additional screen space for multitasking, studying, and entertainment."
+    },
+    {
+      "id": 6,
+      "name": "Sony WH-1000XM5",
+      "price": 349,
+      "category": "Headphones",
+      "brand": "Sony",
+      "inStock": true,
+      "image": "https://placehold.co/300x200?text=Sony+Headphones",
+      "description": "Wireless headphones with active noise cancellation for listening to music and focusing on work."
+    },
+    {
+      "id": 7,
+      "name": "Apple Magic Keyboard",
+      "price": 99,
+      "category": "Keyboards",
+      "brand": "Apple",
+      "inStock": true,
+      "image": "https://placehold.co/300x200?text=Magic+Keyboard",
+      "description": "A slim wireless keyboard with a minimalist design for compatible Apple devices."
+    },
+    {
+      "id": 8,
+      "name": "Anker USB-C Hub",
+      "price": 49,
+      "category": "Accessories",
+      "brand": "Anker",
+      "inStock": false,
+      "image": "https://placehold.co/300x200?text=USB-C+Hub",
+      "description": "A compact USB-C hub that expands connectivity with additional ports for compatible laptops."
+    },
+    {
+      "id": 9,
+      "name": "iPad Air",
+      "price": 599,
+      "category": "Tablets",
+      "brand": "Apple",
+      "inStock": true,
+      "image": "https://placehold.co/300x200?text=iPad+Air",
+      "description": "A versatile tablet for note-taking, reading, drawing, studying, and everyday productivity."
+    },
+    {
+      "id": 10,
+      "name": "Logitech C920 Webcam",
+      "price": 69,
+      "category": "Accessories",
+      "brand": "Logitech",
+      "inStock": true,
+      "image": "https://placehold.co/300x200?text=Webcam",
+      "description": "A USB webcam designed for video calls, online classes, meetings, and content creation."
+    }
+  ]
+}
